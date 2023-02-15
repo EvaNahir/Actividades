@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+h6{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center; 
+}
+
+.pos-f-t{
+    background-color: rgba(64, 218, 218, 0.904);
+}
+
+.collapse{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.bg-dark h4{
+    font-size: 40px;
+}
+
+.btn{
+    font-size: xx-small;
+}
+
+section img{
+    border-radius:500%;
+    height:500px;
+    width:500px;
+    display:block;
+    margin:auto;
+    border-color:brown;
+}
+
+footer{
+    display:flex;
+    margin: auto;
+    position: inherit;
+    color:aliceblue;
+    display: flex;
+    justify-content: center; 
+}
